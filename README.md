@@ -2,4 +2,4 @@
 # Andrew's User Page
 My favorite programming language is Java
 
-Github Page: https://github.com/andrew-lopez-27/CSE-110-SP26-LAB-1
+Github Page: https://andrew-lopez-27.github.io/CSE-110-SP26-LAB-1/
