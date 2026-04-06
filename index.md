@@ -3,6 +3,7 @@
 I am a **third year Computer Science Major**, born and raised here in **San Diego**
 
 > I've always liked working with technology
+
 `Disney Imagineering is pretty cool technology`
 ![Disney Imagineering Logo](disney_logo.jpg)
 
