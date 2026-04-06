@@ -4,7 +4,7 @@ I am a **third year Computer Science Major**, born and raised here in **San Dieg
 
 > "I've always liked working with technology"
 `Disney Imagineering is pretty cool technology`
-![Disney Imagineering Logo](https://static.wikia.nocookie.net/disney/images/1/15/Walt_Disney_Imagineering_logo.png/revision/latest?cb=20200524155631)
+![Disney Imagineering Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Walt_Disney_Imagineering_logo.svg/512px-Walt_Disney_Imagineering_logo.svg.png)
 
 ### Links
 * **External link:** [Canvas Assignment](https://canvas.ucsd.edu/courses/74253/assignments/1125113)
