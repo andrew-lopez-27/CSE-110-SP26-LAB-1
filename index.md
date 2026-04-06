@@ -9,8 +9,8 @@ I am a **third year Computer Science Major**, born and raised here in **San Dieg
 
 ### Links
 * **External link:** [Canvas Assignment](https://canvas.ucsd.edu/courses/74253/assignments/1125113)
-* **Section Link:** [Link Text](#about-me)
-* **Relative Link:** [Link for the README](README.md)
+* **Section Link:** [Text](#about-me)
+* **Relative Link:** [README](README.md)
 
 ### Life Goals(Ordered list)
 1. Finish School
